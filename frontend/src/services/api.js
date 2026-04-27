@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://127.0.0.1:8000";
+const BASE_URL = "https://ai-news-7mw0.onrender.com";
 
 export const fetchNewsAPI = (params) =>
   axios.get(`${BASE_URL}/news`, { params });
