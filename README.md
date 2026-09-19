@@ -36,8 +36,7 @@ An AI-powered news analysis platform that fetches real-time news, summarizes key
 
 ## 🌐 Live Demo
 
-Frontend: https://your-vercel-link.vercel.app  
-Backend: https://your-render-link.onrender.com  
+Frontend: https://ai-news-ashen-five.vercel.app/  
 
 ---
 
